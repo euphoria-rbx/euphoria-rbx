@@ -1,4 +1,9 @@
-## Hi there 👋
+# About me
+- UI / UX Designer
+- Country: 🇺🇦 (UTC+2)
+- Gender: ♂️
+- Programming languages: HTML, CSS, C++, C#, Python, Lua
+- Discord: [mt.__index](https://discord.com/users/1364638987066671237/profile)
 
 <!--
 **euphoria-rbx/euphoria-rbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
